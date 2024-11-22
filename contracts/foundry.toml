@@ -1,0 +1,11 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+
+evm_version = "shanghai"
+
+[rpc_endpoints]
+neox = "https://neoxt4seed1.ngd.network"
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
